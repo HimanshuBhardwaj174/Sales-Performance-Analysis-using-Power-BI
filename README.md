@@ -2,5 +2,5 @@
 Power BI Project
 
 
-! [Excel Dashboard:][./Report Images/Exec Dashboard.jpg]
+! [Excel Dashboard:][Report Images/Exec Dashboard.jpg]
 
